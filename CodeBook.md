@@ -11,7 +11,7 @@
 - A list of 21 that performed the different activities for the **training** set.
 - A list of 9 subject ids that performed the different activities for the **test** set.
 
-## Data (Features / Variables) measured from watch 
+## Data (Features / Variables) measured from smartphone 
 - "tBodyAcc-[mean()|std()]-[X|Y|Z]"
 - "tGravityAcc-[mean()|std()]-[X|Y|Z]"
 - "tBodyAccJerk-[mean()|std()]-[X|Y|Z]"
